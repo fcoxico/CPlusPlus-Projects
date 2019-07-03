@@ -1,4 +1,5 @@
-/* Programa que recebe um vetor e o coloca em ordem. Este prorama não verifica se o vetor está em ordem. */
+/* Programa que recebe um vetor e o coloca em ordem. 
+Este prorama não verifica se o vetor está em ordem. */
 
 #include <iostream>
 
